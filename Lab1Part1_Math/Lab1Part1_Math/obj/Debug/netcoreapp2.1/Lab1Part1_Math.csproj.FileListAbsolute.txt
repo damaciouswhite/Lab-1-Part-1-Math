@@ -1,0 +1,11 @@
+/Users/Mace/Projects/Lab1Part1_Math/Lab1Part1_Math/bin/Debug/netcoreapp2.1/Lab1Part1_Math.deps.json
+/Users/Mace/Projects/Lab1Part1_Math/Lab1Part1_Math/bin/Debug/netcoreapp2.1/Lab1Part1_Math.runtimeconfig.json
+/Users/Mace/Projects/Lab1Part1_Math/Lab1Part1_Math/bin/Debug/netcoreapp2.1/Lab1Part1_Math.runtimeconfig.dev.json
+/Users/Mace/Projects/Lab1Part1_Math/Lab1Part1_Math/bin/Debug/netcoreapp2.1/Lab1Part1_Math.dll
+/Users/Mace/Projects/Lab1Part1_Math/Lab1Part1_Math/bin/Debug/netcoreapp2.1/Lab1Part1_Math.pdb
+/Users/Mace/Projects/Lab1Part1_Math/Lab1Part1_Math/obj/Debug/netcoreapp2.1/Lab1Part1_Math.csprojAssemblyReference.cache
+/Users/Mace/Projects/Lab1Part1_Math/Lab1Part1_Math/obj/Debug/netcoreapp2.1/Lab1Part1_Math.csproj.CoreCompileInputs.cache
+/Users/Mace/Projects/Lab1Part1_Math/Lab1Part1_Math/obj/Debug/netcoreapp2.1/Lab1Part1_Math.AssemblyInfoInputs.cache
+/Users/Mace/Projects/Lab1Part1_Math/Lab1Part1_Math/obj/Debug/netcoreapp2.1/Lab1Part1_Math.AssemblyInfo.cs
+/Users/Mace/Projects/Lab1Part1_Math/Lab1Part1_Math/obj/Debug/netcoreapp2.1/Lab1Part1_Math.dll
+/Users/Mace/Projects/Lab1Part1_Math/Lab1Part1_Math/obj/Debug/netcoreapp2.1/Lab1Part1_Math.pdb

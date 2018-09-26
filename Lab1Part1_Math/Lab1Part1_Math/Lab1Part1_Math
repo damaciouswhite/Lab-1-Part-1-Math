@@ -1,0 +1,70 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Lab1Part1_Math
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Math Equation");
+
+            Console.WriteLine("Please Enter One 3 Digit Number");
+
+            int num1 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Thanks! Please Add Another 3 Digit Number.");
+
+            int num2 = int.Parse(Console.ReadLine());
+
+
+            List<int> listOfInts1 = new List<int>();
+            while (num1 > 0)
+            {
+                listOfInts1.Add(num1 % 10);
+                num1 = num1 / 10;
+
+            }
+
+            List<int> listOfInts2 = new List<int>();
+            while (num2 > 0)
+            {
+                listOfInts2.Add(num2 % 10);
+                num2 = num2 / 10;
+
+            }
+
+            for (int i = 0; i < listOfInts1.Count; i++)
+            {
+                Console.Write($"{listOfInts1[i]},");
+                Console.Write($"{listOfInts2[i]},");
+            }
+
+            List<int> listOfInts3 = new List<int>();
+
+            for (int i = 0; i < listOfInts1.Count; i++)
+            {
+                listOfInts3[i] = listOfInts1[i] + listOfInts2[i];
+         }
+
+            for (int i = 0; i < listOfInts3.Count; i++){
+
+                if (listOfInts3[i] == listOfInts3[i + 1])
+                {
+                    Console.WriteLine("True");
+                }
+
+            else
+
+            {
+                    Console.WriteLine("False");
+                }
+
+            }
+
+                
+        }
+
+    }
+
+}

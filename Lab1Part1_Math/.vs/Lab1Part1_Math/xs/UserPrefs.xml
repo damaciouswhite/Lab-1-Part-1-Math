@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DBD25B0A-4380-4F41-A954-C85BE1CE7E1E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab1Part1_Math/Program.cs">
+    <Files>
+      <File FileName="Lab1Part1_Math/Lab1Part1_Math" Line="28" Column="13" />
+      <File FileName="Lab1Part1_Math/Program.cs" Line="55" Column="87" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lab1Part1__Math PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
